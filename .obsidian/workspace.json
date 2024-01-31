@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "9d1fa33cd7017a38",
+    "type": "split",
+    "children": [
+      {
+        "id": "582716fa5e94b228",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a063e43c79d8b004",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Wiki Organisation.canvas",
+                "viewState": {
+                  "x": -615,
+                  "y": 65,
+                  "zoom": -1.062009662275425
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0407997f9cb7b6ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4c5042755c7c3c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5429fa1c33ab0d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "421da850b21d8a80",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2ddf317a8eb3d64d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 248.5
+  },
+  "right": {
+    "id": "0086d82091ed63e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b944f690d04c925",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "425343407d5f57f7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Wiki Organisation.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2f394b3b5264f4c7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Wiki Organisation.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8a48060d3960edb6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4aaae8a124b101ca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Wiki Organisation.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a063e43c79d8b004",
+  "lastOpenFiles": [
+    "README.md",
+    "Wiki Organisation.canvas",
+    "Analytics High Level/Technology.md",
+    "Analytics High Level/Pasted image 20240129000952.png",
+    "attachments/Pasted image 20240129000952.png",
+    "Analytics High Level/attachments/Pasted image 20240131205902.png",
+    "Analytics High Level/attachments",
+    "Analytics High Level/Statistics.md",
+    "Domain Knowledge.md",
+    "Analytics High Level/Domain Knowledge.md",
+    "Analytics High Level/Analytics in Practice.md",
+    "General Analytics/[Statistics]].md",
+    "General Analytics/().md",
+    "General Analytics/attachments/Pasted image 20240129000926.png",
+    "attachments",
+    "General Analytics/Machine Learning.md",
+    "General Analytics/What is Analytics?.md",
+    "Untitled",
+    "Programming",
+    "Pasted image 20240128155652.png",
+    "Pasted image 20240128155659.png",
+    "Welcome.md",
+    "Analytics High Level"
+  ]
+}
