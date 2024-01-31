@@ -65,4 +65,4 @@ Focus on explaining the relationship between the data on a theoretical level. Ex
 
 [Statistics](https://en.wikipedia.org/wiki/Statistics) is the study and process of collecting, organizing, analyzing, interpreting and visualizing data. As such, given Machine Learning is just a method of analyzing and sometime, interpreting data, it can be said to be a sub-field of statistics that applies algorithms and optimization to model data. 
 
-That being said, some data professionals and academics consider machine learning an AI to be a distinct field from statistics. As is the case argued by this author [here](https://www.nature.com/articles/nmeth.4642). 
+That being said, some data professionals and academics consider machine learning an AI to be a distinct field from statistics, as is the case argued by this author [here](https://www.nature.com/articles/nmeth.4642). 
