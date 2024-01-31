@@ -11,14 +11,11 @@
             "id": "a063e43c79d8b004",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Wiki Organisation.canvas",
-                "viewState": {
-                  "x": -615,
-                  "y": 65,
-                  "zoom": -1.062009662275425
-                }
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiki Organisation.canvas",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wiki Organisation.canvas",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wiki Organisation.canvas"
+                "file": "README.md"
               }
             }
           }
@@ -151,8 +148,8 @@
   },
   "active": "a063e43c79d8b004",
   "lastOpenFiles": [
-    "README.md",
     "Wiki Organisation.canvas",
+    "README.md",
     "Analytics High Level/Technology.md",
     "Analytics High Level/Pasted image 20240129000952.png",
     "attachments/Pasted image 20240129000952.png",
