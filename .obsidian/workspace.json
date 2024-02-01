@@ -4,24 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "5578398daf56b8aa",
+        "id": "b6f7d186d0b481ec",
         "type": "tabs",
         "children": [
           {
-            "id": "60305d2f7bc3d9f7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "30abc7422907c632",
+            "id": "53726d8069b65f79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analytics High Level/Statistics.md",
+                "file": "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Interpretation of P-Values.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "812dac45535f8880",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/Fishers Test.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analytics High Level/Statistics.md",
+                "file": "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/Fishers Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analytics High Level/Statistics.md",
+                "file": "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/Fishers Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analytics High Level/Statistics.md"
+                "file": "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/Fishers Test.md"
               }
             }
           }
@@ -155,35 +159,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "30abc7422907c632",
+  "active": "812dac45535f8880",
   "lastOpenFiles": [
-    "Analytics High Level/Domain Knowledge.md",
-    "Analytics High Level/Analytics in Practice.md",
-    "Other Resources.md",
-    "TODO.md",
-    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Interpretation of P-Values.md",
-    "Wiki Organisation.canvas",
+    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/Chi-Square Test.md",
+    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/Fishers Test.md",
     "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Common Applications.md",
+    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Contingency Tables.md",
+    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Interpretation of P-Values.md",
+    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/attachments/Pasted image 20240202002140.png",
+    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/Z-Test.md",
+    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/T-Test.md",
+    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/ANOVA.md",
+    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/attachments/Pasted image 20240201200912.png",
     "README.md",
+    "Other Resources.md",
+    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/Fishers.md",
+    "Untitled",
+    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/attachments",
+    "code examples.qmd",
+    "Wiki Organisation.canvas",
+    "Analytics High Level/Analytics in Practice.md",
+    "Analytics High Level/Domain Knowledge.md",
+    "Analytics High Level/Technology.md",
+    "Analytics High Level/Statistics.md",
+    "TODO.md",
+    "Academic Theory/Statistics & Mathematics/Modelling Basics/Ensemble Models.md",
+    "Academic Theory/Statistics & Mathematics/Modelling Basics/Measures of Fit.md",
+    "Academic Theory/Statistics & Mathematics/Modelling Basics/Model Bias.md",
+    "Academic Theory/Statistics & Mathematics/Modelling Basics/Model Training.md",
     "Academic Theory/Statistics & Mathematics/Causal Modelling/Experiments.md",
     "Academic Theory/Statistics & Mathematics/Causal Modelling/Causal Diagrams.md",
     "Academic Theory/Statistics & Mathematics/Queueing Theory/Mathematical Notation.md",
     "Academic Theory/Statistics & Mathematics/Queueing Theory/Single Server Queues.md",
     "Academic Theory/Statistics & Mathematics/Queueing Theory/Multi Server Queues.md",
     "Academic Theory/Statistics & Mathematics/Queueing Theory/Simulation and Approximation.md",
-    "Academic Theory/Statistics & Mathematics/Queueing Theory/Priority Queues.md",
-    "Academic Theory/Statistics & Mathematics/Queueing Theory/Loss Systems.md",
-    "Academic Theory/Statistics & Mathematics/Supervised Models/Support Vector Machines.md",
-    "Academic Theory/Statistics & Mathematics/Supervised Models/Regression vs Classification.md",
-    "Academic Theory/Statistics & Mathematics/Supervised Models/General Linear Models.md",
-    "Academic Theory/Statistics & Mathematics/Supervised Models/Boosting Models.md",
-    "Academic Theory/Statistics & Mathematics/Unsupervised Models/Latent Variable Modelling.md",
-    "Academic Theory/Statistics & Mathematics/Unsupervised Models/Association Rule Mining.md",
-    "Academic Theory/Statistics & Mathematics/Unsupervised Models/Dimensionality Reduction.md",
-    "Academic Theory/Statistics & Mathematics/Unsupervised Models/Clustering.md",
-    "Academic Theory/Statistics & Mathematics/Regression Modelling/Logistic Models.md",
-    "Academic Theory/Statistics & Mathematics/Regression Modelling/Linear Models.md",
-    "Academic Theory/Statistics & Mathematics/Modelling Basics/Model Validation.md",
     "Academic Theory/Statistics & Mathematics/Queueing Theory",
     "Academic Theory/Statistics & Mathematics/Causal Modelling",
     "Academic Theory/Statistics & Mathematics/Unsupervised Models",
@@ -191,9 +200,6 @@
     "Academic Theory/Statistics & Mathematics/Regression Modelling",
     "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests",
     "Academic Theory/Statistics & Mathematics/Hypothesis Testing",
-    "Academic Theory/Statistics & Mathematics/Modelling Basics",
-    "Academic Theory/Visualisation/User Design Considerations",
-    "Analytics in Practice/Finance",
     "Analytics High Level/Pasted image 20240129000952.png",
     "attachments/Pasted image 20240129000952.png",
     "Analytics High Level/attachments/Pasted image 20240131205902.png",

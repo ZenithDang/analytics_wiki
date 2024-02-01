@@ -1,13 +1,11 @@
 {
 	"nodes":[
-		{"id":"b6545dbf937de47f","x":-2505,"y":-290,"width":250,"height":60,"type":"text","text":""},
 		{"id":"527f461a58e28cc8","type":"text","text":"Analytics Wiki ","x":-1180,"y":-60,"width":250,"height":60},
 		{"id":"f2a5a118fee8129c","type":"text","text":"Resource Allocation","x":-770,"y":820,"width":250,"height":60},
 		{"id":"41776168d86f31ec","type":"text","text":"Scheduling","x":-560,"y":710,"width":250,"height":60},
 		{"id":"6e5d2da4fc8dc3c6","type":"text","text":"Routing","x":-1020,"y":710,"width":250,"height":60},
 		{"id":"aad1b214c699a4d3","type":"text","text":"Analytics in Practice","x":-1350,"y":390,"width":280,"height":60},
 		{"id":"9316cacf86b358c5","type":"text","text":"Management","x":-810,"y":530,"width":250,"height":60},
-		{"id":"35f3d4d7d920c69e","type":"text","text":"Ways of Working","x":-2145,"y":-290,"width":250,"height":60},
 		{"id":"2baa1dbb74406509","type":"text","text":"Cloud Services","x":-2145,"y":-170,"width":250,"height":60},
 		{"id":"e89a98cf48fcac28","type":"text","text":"Technical Knowledge","x":-1600,"y":-140,"width":250,"height":60},
 		{"id":"c14b9bc8caa67ee9","type":"text","text":"Dimensional Modelling ","x":673,"y":610,"width":250,"height":60},
@@ -79,13 +77,16 @@
 		{"id":"4419a55a81a33eba","type":"text","text":"Marketing","x":-1380,"y":820,"width":250,"height":60},
 		{"id":"fd4e641f120ba82f","type":"text","text":"Normalisation ","x":628,"y":330,"width":250,"height":60},
 		{"id":"5e03984757470202","type":"text","text":"Programming","x":-2175,"y":130,"width":250,"height":60},
-		{"id":"aa2ef34e8b62b380","x":-2840,"y":120,"width":250,"height":60,"type":"text","text":"SQL"},
-		{"id":"3f0fd1478453d277","x":-2650,"y":-60,"width":250,"height":60,"type":"text","text":"Git "},
-		{"id":"adc39ad309e4d11f","x":-2880,"y":20,"width":250,"height":60,"type":"text","text":"Python "},
-		{"id":"d62c795be19dbd2f","x":-2800,"y":420,"width":250,"height":60,"type":"text","text":"Bash"},
-		{"id":"695e7183c9be7ea6","x":-2755,"y":320,"width":250,"height":60,"type":"text","text":"R "},
-		{"id":"d9c4e3c72b98602c","x":-2700,"y":220,"width":250,"height":60,"type":"text","text":"Julia"},
-		{"id":"c45899834e677e49","x":-2550,"y":-400,"width":250,"height":60,"type":"text","text":"Agile"}
+		{"id":"aa2ef34e8b62b380","type":"text","text":"SQL","x":-2840,"y":120,"width":250,"height":60},
+		{"id":"3f0fd1478453d277","type":"text","text":"Git ","x":-2650,"y":-60,"width":250,"height":60},
+		{"id":"adc39ad309e4d11f","type":"text","text":"Python ","x":-2880,"y":20,"width":250,"height":60},
+		{"id":"d62c795be19dbd2f","type":"text","text":"Bash","x":-2800,"y":420,"width":250,"height":60},
+		{"id":"695e7183c9be7ea6","type":"text","text":"R ","x":-2755,"y":320,"width":250,"height":60},
+		{"id":"d9c4e3c72b98602c","type":"text","text":"Julia","x":-2700,"y":220,"width":250,"height":60},
+		{"id":"35f3d4d7d920c69e","type":"text","text":"Ways of Working","x":-2020,"y":-520,"width":250,"height":60},
+		{"id":"c45899834e677e49","type":"text","text":"Agile","x":-2450,"y":-700,"width":250,"height":60},
+		{"id":"92a26601b4d2cdea","x":-2505,"y":-550,"width":250,"height":60,"type":"text","text":"Collaboration"},
+		{"id":"fba58ed167a8e4e9","x":-2450,"y":-420,"width":250,"height":60,"type":"text","text":"Knowledge Management"}
 	],
 	"edges":[
 		{"id":"b0277946c43b2cb4","fromNode":"bfb1c9cd2ebc0afb","fromSide":"right","toNode":"bf5f76ef61c0d47b","toSide":"left"},
@@ -170,6 +171,9 @@
 		{"id":"28d0010de7d3302f","fromNode":"5e03984757470202","fromSide":"left","toNode":"d9c4e3c72b98602c","toSide":"right"},
 		{"id":"94ac07021c96d331","fromNode":"5e03984757470202","fromSide":"left","toNode":"695e7183c9be7ea6","toSide":"right"},
 		{"id":"8e239b9b0e8d351d","fromNode":"5e03984757470202","fromSide":"left","toNode":"3f0fd1478453d277","toSide":"right"},
-		{"id":"34fe71a3904d5664","fromNode":"5e03984757470202","fromSide":"left","toNode":"d62c795be19dbd2f","toSide":"right"}
+		{"id":"34fe71a3904d5664","fromNode":"5e03984757470202","fromSide":"left","toNode":"d62c795be19dbd2f","toSide":"right"},
+		{"id":"0a46166aeddb25e3","fromNode":"35f3d4d7d920c69e","fromSide":"left","toNode":"c45899834e677e49","toSide":"right"},
+		{"id":"252aa77510d5af45","fromNode":"35f3d4d7d920c69e","fromSide":"left","toNode":"92a26601b4d2cdea","toSide":"right"},
+		{"id":"319ea34a9c55ddf1","fromNode":"35f3d4d7d920c69e","fromSide":"left","toNode":"fba58ed167a8e4e9","toSide":"right"}
 	]
 }
