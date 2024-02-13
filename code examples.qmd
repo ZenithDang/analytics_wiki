@@ -1,6 +1,56 @@
 
 # Statistics and Mathematics
 
+## Contingency Tables
+
+```{r}
+# sample data generation
+df <- data.frame(
+    education = sample(
+        c("high school", "college", "graduate school"), 
+        300, 
+        TRUE, 
+        c(0.2, 0.5, 0.3)
+        ),
+    occupation = sample(
+        c("student", "unemployed", "employed", "self-employed"), 
+        300, 
+        TRUE, 
+        c(0.1, 0.2, 0.4, 0.3)
+        )
+    )
+head(df)
+```
+
+```{r}
+table(df$education, df$occupation)
+```
+
+```{r}
+df <- data.frame(
+    education = sample(
+        c("high school", "college", "graduate school"), 
+        300, 
+        TRUE, 
+        c(0.2, 0.5, 0.3)
+        ),
+    occupation = sample(
+        c("student", "unemployed", "employed", "self-employed"), 
+        300, 
+        TRUE, 
+        c(0.1, 0.2, 0.4, 0.3)
+        ), 
+    ethinicity = sample(
+        c("white", "black", "asian", "hispanic"), 
+        300, 
+        TRUE, 
+        c(0.3, 0.2, 0.3, 0.2)
+        )
+    )
+
+table(df$education, df$occupation, df$ethinicity)
+```
+
 ## Statistical Tests
 
 ### Chi Square Test of Independence
@@ -48,3 +98,49 @@ df <- data.frame(
 # fishers test
 fisher.test(table(df$education, df$occupation))
 ```
+
+### t-tEST 
+
+```{r}
+male_height <- rnorm(100, 175,5)
+female_height <- rnorm(100, 170, 5)
+
+t.test(male_height, female_height)
+```
+
+```{r}
+t.test(male_height, female_height, alternative = "less")
+```
+
+```{r}
+t.test(male_height, female_height, alternative = "greater")
+```
+
+### ANOVA
+
+```{r}
+df <- data.frame(
+    education = sample(
+        c("high school", "college", "graduate school"), 
+        300, 
+        TRUE, 
+        c(0.2, 0.5, 0.3)
+        ),
+    income = rnorm(300, 50000, 10000)
+    )
+
+aov(income ~ education, data = df) |> summary()
+```
+
+```{r}
+aov(income ~ education, data = df)$residuals |> shapiro.test()
+windows()
+aov(income ~ education, data = df)$residuals |> car::qqPlot()
+```
+
+```{r}
+car::leveneTest(income ~ education, data = df)
+windows()
+boxplot(income ~ education, data = df)
+```
+

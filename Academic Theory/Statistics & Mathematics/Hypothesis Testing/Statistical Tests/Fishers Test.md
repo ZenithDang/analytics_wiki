@@ -45,7 +45,7 @@ Doing this test we will get an output that looks like the following:
 
 ![](Attachments/Pasted%20image%2020240202002140.png)
 
-In this case the P-Value is very large indicating we cannot reject the $H_0$ at the 10% level. Thus, there is strong statistical evidence indicating occupation and employment status are independent (i.e. not related). 
+In this case the P-Value is large indicating we cannot reject the $H_0$ at the 10% level. Thus, there is strong statistical evidence indicating occupation and employment status are independent (i.e. not related). 
 ## Assumptions/Requirements 
 
 - Variables are categorical (i.e. take on a finite set of values)

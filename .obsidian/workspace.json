@@ -4,35 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "b6f7d186d0b481ec",
+        "id": "60c11346ed0eaa06",
         "type": "tabs",
         "children": [
           {
-            "id": "53726d8069b65f79",
+            "id": "75467fb687f6754d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Interpretation of P-Values.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "812dac45535f8880",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/Fishers Test.md",
-                "mode": "source",
-                "source": false
+                "file": "Wiki Organisation.canvas",
+                "viewState": {
+                  "x": 1623.5204402562358,
+                  "y": -1603.3401316901493,
+                  "zoom": -0.3849534026780212
+                }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/Fishers Test.md",
+                "file": "Wiki Organisation.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/Fishers Test.md",
+                "file": "Wiki Organisation.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/Fishers Test.md"
+                "file": "Wiki Organisation.canvas"
               }
             }
           }
@@ -159,52 +149,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "812dac45535f8880",
+  "active": "a5429fa1c33ab0d8",
   "lastOpenFiles": [
-    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/Chi-Square Test.md",
-    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/Fishers Test.md",
-    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Common Applications.md",
-    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Contingency Tables.md",
-    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Interpretation of P-Values.md",
-    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/attachments/Pasted image 20240202002140.png",
-    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/Z-Test.md",
     "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/T-Test.md",
+    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/Shapiro Test.md",
+    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/Levene Test.md",
+    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/Fishers Test.md",
     "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/ANOVA.md",
-    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/attachments/Pasted image 20240201200912.png",
-    "README.md",
+    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/Chi-Square Test.md",
+    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Common Applications.md",
+    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Interpretation of P-Values.md",
+    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Contingency Tables.md",
+    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/attachments/Pasted image 20240213223717.png",
+    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/attachments/Pasted image 20240202002140.png",
+    "Wiki Organisation.canvas",
+    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/attachments/Pasted image 20240213230413.png",
+    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/attachments/Pasted image 20240213230203.png",
+    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/attachments/Pasted image 20240213224846.png",
+    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/attachments/Pasted image 20240213224738.png",
+    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/Z-Test.md",
+    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/attachments/Pasted image 20240213214812.png",
+    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/attachments/Pasted image 20240213214611.png",
+    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/attachments/Pasted image 20240213214254.png",
+    "Academic Theory/Statistics & Mathematics/Causal Modelling/Causal Diagrams.md",
+    "Academic Theory/Statistics & Mathematics/Causal Modelling/Experiments.md",
+    "Academic Theory/Statistics & Mathematics/Supervised Models/Regression vs Classification.md",
+    "Academic Theory/Statistics & Mathematics/Supervised Models/General Linear Models.md",
+    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/attachments/Pasted image 20240210115049.png",
+    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/attachments",
+    "Academic Theory/Data Modelling/Normalisation.md",
+    "Academic Theory/Data Modelling/Entity Relationship Diagrams.md",
+    "Academic Theory/Data Modelling/Kimball vs. Inmon Methodology.md",
+    "Academic Theory/Data Modelling/Dimensional Modelling.md",
+    "Academic Theory/Data Modelling/Data Vault Modelling.md",
+    "Academic Theory/Data Modelling/Data Quality and Governance.md",
     "Other Resources.md",
-    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/Fishers.md",
+    "README.md",
+    "TODO.md",
+    "N1.md",
+    "N2.md",
     "Untitled",
     "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/attachments",
     "code examples.qmd",
-    "Wiki Organisation.canvas",
-    "Analytics High Level/Analytics in Practice.md",
-    "Analytics High Level/Domain Knowledge.md",
-    "Analytics High Level/Technology.md",
-    "Analytics High Level/Statistics.md",
-    "TODO.md",
-    "Academic Theory/Statistics & Mathematics/Modelling Basics/Ensemble Models.md",
-    "Academic Theory/Statistics & Mathematics/Modelling Basics/Measures of Fit.md",
-    "Academic Theory/Statistics & Mathematics/Modelling Basics/Model Bias.md",
-    "Academic Theory/Statistics & Mathematics/Modelling Basics/Model Training.md",
-    "Academic Theory/Statistics & Mathematics/Causal Modelling/Experiments.md",
-    "Academic Theory/Statistics & Mathematics/Causal Modelling/Causal Diagrams.md",
-    "Academic Theory/Statistics & Mathematics/Queueing Theory/Mathematical Notation.md",
-    "Academic Theory/Statistics & Mathematics/Queueing Theory/Single Server Queues.md",
-    "Academic Theory/Statistics & Mathematics/Queueing Theory/Multi Server Queues.md",
-    "Academic Theory/Statistics & Mathematics/Queueing Theory/Simulation and Approximation.md",
     "Academic Theory/Statistics & Mathematics/Queueing Theory",
     "Academic Theory/Statistics & Mathematics/Causal Modelling",
     "Academic Theory/Statistics & Mathematics/Unsupervised Models",
     "Academic Theory/Statistics & Mathematics/Supervised Models",
     "Academic Theory/Statistics & Mathematics/Regression Modelling",
-    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests",
-    "Academic Theory/Statistics & Mathematics/Hypothesis Testing",
-    "Analytics High Level/Pasted image 20240129000952.png",
-    "attachments/Pasted image 20240129000952.png",
-    "Analytics High Level/attachments/Pasted image 20240131205902.png",
-    "General Analytics/attachments/Pasted image 20240129000926.png",
-    "Pasted image 20240128155652.png",
-    "Pasted image 20240128155659.png"
+    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests"
   ]
 }
