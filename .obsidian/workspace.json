@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Contingency Tables.md",
+                "file": "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/ANOVA.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Contingency Tables.md",
+                "file": "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/ANOVA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Contingency Tables.md",
+                "file": "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/ANOVA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Contingency Tables.md"
+                "file": "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/ANOVA.md"
               }
             }
           }
@@ -148,14 +148,14 @@
   },
   "active": "75467fb687f6754d",
   "lastOpenFiles": [
-    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Interpretation of P-Values.md",
+    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/Chi-Square Test.md",
     "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Contingency Tables.md",
+    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Interpretation of P-Values.md",
     "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Common Applications.md",
     "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/T-Test.md",
     "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/Shapiro Test.md",
     "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/Levene Test.md",
     "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/Fishers Test.md",
-    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/Chi-Square Test.md",
     "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/ANOVA.md",
     "Wiki Organisation.canvas",
     "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/attachments/Pasted image 20240213223717.png",
