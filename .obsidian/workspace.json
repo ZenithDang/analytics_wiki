@@ -11,14 +11,11 @@
             "id": "75467fb687f6754d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Wiki Organisation.canvas",
-                "viewState": {
-                  "x": 1623.5204402562358,
-                  "y": -1603.3401316901493,
-                  "zoom": -0.3849534026780212
-                }
+                "file": "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Contingency Tables.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiki Organisation.canvas",
+                "file": "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Contingency Tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wiki Organisation.canvas",
+                "file": "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Contingency Tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wiki Organisation.canvas"
+                "file": "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Contingency Tables.md"
               }
             }
           }
@@ -149,20 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a5429fa1c33ab0d8",
+  "active": "75467fb687f6754d",
   "lastOpenFiles": [
+    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Interpretation of P-Values.md",
+    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Contingency Tables.md",
+    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Common Applications.md",
     "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/T-Test.md",
     "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/Shapiro Test.md",
     "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/Levene Test.md",
     "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/Fishers Test.md",
-    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/ANOVA.md",
     "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/Chi-Square Test.md",
-    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Common Applications.md",
-    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Interpretation of P-Values.md",
-    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Contingency Tables.md",
+    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/ANOVA.md",
+    "Wiki Organisation.canvas",
     "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/attachments/Pasted image 20240213223717.png",
     "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/attachments/Pasted image 20240202002140.png",
-    "Wiki Organisation.canvas",
     "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/attachments/Pasted image 20240213230413.png",
     "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/attachments/Pasted image 20240213230203.png",
     "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/attachments/Pasted image 20240213224846.png",

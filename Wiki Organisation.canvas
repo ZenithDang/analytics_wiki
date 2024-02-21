@@ -79,7 +79,7 @@
 		{"id":"77bb782124269f5a","type":"text","text":"T-Test","x":1615,"y":-1830,"width":250,"height":60,"color":"4"},
 		{"id":"9713e66c7c6effa8","type":"text","text":"ANOVA","x":1600,"y":-1690,"width":250,"height":60,"color":"4"},
 		{"id":"b1bd761ec17393c5","type":"text","text":"Fishers Test","x":1640,"y":-1560,"width":250,"height":60,"color":"4"},
-		{"id":"2e0a031bb7262c4e","type":"text","text":"Shapiro Test","x":1640,"y":-1920,"width":250,"height":60},
+		{"id":"2e0a031bb7262c4e","type":"text","text":"Shapiro Test","x":1640,"y":-1920,"width":250,"height":60,"color":"4"},
 		{"id":"ed585406f167e1d4","type":"text","text":"Simplex Method ","x":1971,"y":1760,"width":250,"height":60},
 		{"id":"161bb720c7cf84fb","type":"text","text":"Duality Theory","x":2049,"y":1920,"width":250,"height":60},
 		{"id":"0572095e73e7b52a","type":"text","text":"Sensitivity Analysis","x":1971,"y":2040,"width":250,"height":60},
@@ -89,7 +89,7 @@
 		{"id":"3eafb994e6470cba","type":"text","text":"Mathematical Representation","x":2007,"y":1480,"width":305,"height":60},
 		{"id":"913e09a48060fb81","type":"text","text":"Graphical Representation ","x":2006,"y":1600,"width":250,"height":60},
 		{"id":"bc090a6e34b09864","type":"text","text":"Linear Programming ","x":1424,"y":1660,"width":250,"height":60},
-		{"id":"c22edd500593a7a1","type":"text","text":"Levene-Test","x":1515,"y":-2140,"width":250,"height":60}
+		{"id":"c22edd500593a7a1","type":"text","text":"Levene-Test","x":1515,"y":-2140,"width":250,"height":60,"color":"4"}
 	],
 	"edges":[
 		{"id":"b0277946c43b2cb4","fromNode":"bfb1c9cd2ebc0afb","fromSide":"right","toNode":"bf5f76ef61c0d47b","toSide":"left"},
