@@ -1,6 +1,6 @@
 # T-Test
 
-Also called the student T-Test, is test mainly used to compare whether the average response of two populations are statistically difference. I.e. is the mean of two groups different from each other. Under this test in a two sided scenario the hypothesis are:
+The T-Test, is test mainly used to compare whether the average response of two populations are statistically difference. I.e. is the mean of two groups different from each other. Under this test in a two sided scenario the hypothesis are:
 
 - $H_0$ : The difference in the two groups means are zero
 - $H_1$ : The difference in the two groups means are non-zero

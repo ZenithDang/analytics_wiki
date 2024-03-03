@@ -1,3 +1,5 @@
+# Chi-Squared Test 
+
 The [Chi-Squared Test](https://en.wikipedia.org/wiki/Chi-squared_test) is a [non-parametric](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3900058/) statistical test primarily used to compare whether two categorical variables (aka factors) are independent. In simpler terms:
 
 - $H_0$ : the two categorical variables are independent from each other, i.e. not related.
@@ -49,5 +51,5 @@ In this case the P-Value is very large indicating we cannot reject the $H_0$ at 
 
 ## Assumptions/Requirements
 
-- Large sample size ([N&gt;50](https://passel2.unl.edu/view/lesson/9beaa382bf7e/14#:~:text=Most%20recommend%20that%20chi%2Dsquare,recommend%20using%20Fisher's%20exact%20test.), if smaller use [Fishers Test](Fishers%20Test.md) instead.)
+- Large sample size (if small use [Fishers Test](Fishers%20Test.md) instead.)
 - Variables are categorical (i.e. take on a finite set of values)

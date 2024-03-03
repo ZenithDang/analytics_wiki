@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "60c11346ed0eaa06",
+        "id": "df50eb0f8de6047a",
         "type": "tabs",
         "children": [
           {
-            "id": "75467fb687f6754d",
+            "id": "e61235f2ac8792bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/ANOVA.md",
+                "file": "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/Chi-Square Test.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/ANOVA.md",
+                "file": "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/Chi-Square Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/ANOVA.md",
+                "file": "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/Chi-Square Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/ANOVA.md"
+                "file": "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/Chi-Square Test.md"
               }
             }
           }
@@ -146,17 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75467fb687f6754d",
+  "active": "e61235f2ac8792bb",
   "lastOpenFiles": [
-    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/Chi-Square Test.md",
-    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Contingency Tables.md",
     "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Interpretation of P-Values.md",
-    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Common Applications.md",
+    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Contingency Tables.md",
+    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Stastical.md",
     "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/T-Test.md",
-    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/Shapiro Test.md",
+    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/Chi-Square Test.md",
     "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/Levene Test.md",
-    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/Fishers Test.md",
     "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/ANOVA.md",
+    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Common Applications.md",
+    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/Shapiro Test.md",
+    "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/Fishers Test.md",
     "Wiki Organisation.canvas",
     "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/attachments/Pasted image 20240213223717.png",
     "Academic Theory/Statistics & Mathematics/Hypothesis Testing/Statistical Tests/attachments/Pasted image 20240202002140.png",
